@@ -1,0 +1,43 @@
+---> Put here every topic you find important
+
+LANGUAGES
+---------
+* Regular expressions
+* Finite automata
+* Other language types
+  - Language hierarchy
+  - LL1
+  - ...
+
+GRAMMARS AND PARSE TREES
+------------------------
+* first(), nullable(), follow()
+* LL1 grammars
+* Chomsky normal form
+* Parse Tree
+
+
+NAME SPACE (SYMBOLS)
+--------------------
+* Static/Dynamic scope
+
+
+TYPECHECKING
+------------
+* Derivation trees
+* Standard derivation formulas
+
+
+OTHER ANALYSIS
+--------------
+* Possible value interval
+
+
+CODE GENERATION
+---------------
+* Standard JVM commands
+* Code generation technique
+
+
+
+
