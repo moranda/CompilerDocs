@@ -4,15 +4,19 @@ LANGUAGES
 ---------
 * Regular expressions
 * Finite automata
+* Minimization of finite automata
+* Non-deterministic to deterministic automaton conversion
 * Other language types
   - Language hierarchy
   - LL1
   - ...
+* Longest match rule vs token priority
 
 GRAMMARS AND PARSE TREES
 ------------------------
 * first(), nullable(), follow()
 * LL1 grammars
+* Turn a grammar to 
 * Chomsky normal form
 * Parse Tree
 
