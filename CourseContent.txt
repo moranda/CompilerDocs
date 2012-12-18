@@ -19,6 +19,8 @@ GRAMMARS AND PARSE TREES
 * Turn a grammar to 
 * Chomsky normal form
 * Parse Tree
+* CYK dynamic parsing algorithm
+* Attribute grammars
 
 
 NAME SPACE (SYMBOLS)
