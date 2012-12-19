@@ -1,0 +1,38 @@
+Compiled from "ClassX.java"
+class ClassX {
+  boolean b;
+
+  ClassX();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":
+()V
+       4: return
+
+  int f(int, int, int);
+    Code:
+       0: aload_0
+       1: getfield      #2                  // Field b:Z
+       4: ifne          16
+       7: iload_1
+       8: iconst_2
+       9: iload_2
+      10: iload_3
+      11: iadd
+      12: imul
+      13: if_icmpgt     25
+      16: iload_1
+      17: iconst_2
+      18: iload_2
+      19: imul
+      20: iload_3
+      21: iadd
+      22: if_icmpge     32
+      25: iload_1
+      26: iconst_3
+      27: iadd
+      28: istore_1
+      29: goto          0
+      32: iload_1
+      33: ireturn
+}
